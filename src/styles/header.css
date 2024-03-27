@@ -1,0 +1,81 @@
+.header {
+  position: fixed;
+  min-width: 100%;
+  min-height: 5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: var(--bg-color-150);
+ z-index: 99;
+}
+
+.header-wrapper {
+  padding: 1rem 3rem;
+  max-width: 140rem;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+  margin: 0 auto;
+}
+
+.header__logo {
+  display: none;
+}
+
+/* ----- LOGO ------- */
+.header__logo {
+  position: relative;
+  font-size: 2rem;
+  font-family: var(--font-type-200);
+  letter-spacing: .2rem;
+  padding: 0rem 1rem;
+}
+
+.header__logo--letter {
+  font-size: 3rem;
+  font-family: var(--font-type-100);
+  color: var(--text-color-150);
+}
+
+.header__logo::before,
+.header__logo::after {
+  content: '';
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+
+  border-top: 0.2rem solid var(--text-color-150);
+  border-left: 0.2rem solid var(--text-color-150);
+}
+
+.header__logo::before {
+  top:  0;
+  left: 0;
+}
+
+.header__logo::after {
+  transform: rotate(180deg);
+  right: 0;
+  bottom: 0;
+}
+
+@media (min-width: 432px) {
+}
+
+@media (min-width: 780px) {
+  .header-wrapper {
+    flex-direction: row;
+  }
+  .header__logo {
+    font-size: 3rem;
+    display: block;
+  }
+
+  .header__logo--letter {
+    font-size: 5rem;
+  }
+}
+
+

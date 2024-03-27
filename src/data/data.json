@@ -1,0 +1,56 @@
+{
+  "projects": [
+    {
+      "name": "Kanban",
+      "img": "/img/kanban-desktop.png",
+      "link": "https://kanban-board-kb.netlify.app/",
+      "code": "https://github.com/AdrianoR85/Kanban?tab=readme-ov-file"
+    },
+    {
+      "name": "Portfolio",
+      "img": "/img/portfolio.png",
+      "link": "#",
+      "code": "#"
+    },
+    {
+      "name": "Memory Game",
+      "img": "/img/memory_game.png",
+      "link": "https://pokememory00.netlify.app/",
+      "code": "https://github.com/AdrianoR85/memory_game"
+    }
+  ], 
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Intermedia", 
+      "src": "/public/img/skills/html.svg"
+    },
+    {
+      "name": "CSS",
+      "level": "Intermidia", 
+      "src": "/public/img/skills/css.svg"
+    },
+    {
+      "name": "Javascript",
+      "level": "Basic", 
+      "src": "/public/img/skills/javascript.svg"
+    },
+    {
+      "name": "Python",
+      "level": "Basic", 
+      "src": "/public/img/skills/python.svg"
+    },
+    {
+      "name": "SQL",
+      "level": "Basic", 
+      "src": "/public/img/skills/sql.png"
+    },
+    {
+      "name": "Power BI",
+      "level": "Basic", 
+      "src": "/public/img/skills/power-bi.svg"
+    }
+    
+  ]
+}
+  

@@ -1,0 +1,24 @@
+.nav-wrapper {
+  display: flex;
+  gap: 2rem;
+}
+.nav-wrapper a {
+  text-decoration: none;
+  color: var(--text-color-150);
+  border: .2rem solid transparent;
+  font-family: var(--font-type-200);
+}
+
+@media (max-width: 432px) {
+  .nav-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+  }
+}
+
+@media (min-width: 780px) {
+  .nav-wrapper a {
+    font-size: 1.8rem;
+  }
+}

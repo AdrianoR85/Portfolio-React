@@ -1,0 +1,81 @@
+.about-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.about__text {
+  flex: 1;
+  padding: 0 1rem;
+}
+
+.about__text h3,
+.about__education h3 {
+  font-size: 1.5rem;
+  padding-bottom: .6rem;
+}
+
+.about__text--name {
+  color: var(--text-color-150);
+  font-style: italic;
+}
+
+.about__text p{
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+  line-height: 1.7rem;
+}
+
+.about__education {
+  margin-top: 1rem;
+  background-color: var(--bg-color-150);
+  padding: 1rem;
+  border-radius: .8rem;
+  box-shadow: 0 .2rem .2rem #00000079;
+  opacity: .8;
+}
+
+@media (min-width: 768px) {
+  .about-content {
+    flex-direction: row;
+    gap: 4rem;
+  }
+  .about__text {
+    box-shadow: .2rem .2rem 4rem #00000079;
+    border-top-left-radius: 4rem;
+    border-bottom-right-radius: 4rem;
+    padding: 2rem ;
+  }
+
+  .about__text p {
+    font-size: 1.4rem;
+  }
+
+  .about__education {
+    height: max-content;
+    flex: 1;
+  }
+
+  .about__text h3,
+  .about__education h3 {
+    font-size: 1.7rem;
+    padding-bottom: .8rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .about__text,
+  .about__education {
+    padding: 3rem;
+  }
+
+  .about__text h3,
+  .about__education h3 {
+    font-size: 1.8rem;
+    padding-bottom: 1rem;
+  }
+
+  .about__text p {
+    font-size: 1.6rem;
+    line-height: 2rem;
+  }
+}

@@ -1,0 +1,25 @@
+.course-wrapper {
+  font-size: 1.3rem;
+  line-height: 2rem;
+  margin-bottom: 1rem;
+}
+.course__name {
+  font-weight: 600;
+}
+
+.course__local > span {
+  font-weight: 600;
+}
+
+@media (min-width: 768px) {
+  .course-wrapper {
+    font-size: 1.4rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .course-wrapper {
+    font-size: 1.6rem;
+    line-height: 2.4rem;
+  }
+}
