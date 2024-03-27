@@ -23,7 +23,7 @@
     {
       "name": "HTML",
       "level": "Intermedia", 
-      "src": "/public/img/html.svg"
+      "src": "/img/html.svg"
     },
     {
       "name": "CSS",
@@ -33,22 +33,22 @@
     {
       "name": "Javascript",
       "level": "Basic", 
-      "src": "/public/img/javascript.svg"
+      "src": "/img/javascript.svg"
     },
     {
       "name": "Python",
       "level": "Basic", 
-      "src": "/public/img/python.svg"
+      "src": "/img/python.svg"
     },
     {
       "name": "SQL",
       "level": "Basic", 
-      "src": "/public/img/sql.png"
+      "src": "/img/sql.png"
     },
     {
       "name": "Power BI",
       "level": "Basic", 
-      "src": "/public/img/power-bi.svg"
+      "src": "/img/power-bi.svg"
     }
     
   ]
