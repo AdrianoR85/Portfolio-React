@@ -28,7 +28,7 @@
     {
       "name": "CSS",
       "level": "Intermidia", 
-      "src": "/public/img/css.svg"
+      "src": "img/css.svg"
     },
     {
       "name": "Javascript",
