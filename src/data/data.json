@@ -9,8 +9,8 @@
     {
       "name": "Portfolio",
       "img": "/img/portfolio.png",
-      "link": "#",
-      "code": "#"
+      "link": "https://adrianorosa085-portfolio.netlify.app/",
+      "code": "https://github.com/AdrianoR85/Portfolio-React"
     },
     {
       "name": "Memory Game",
