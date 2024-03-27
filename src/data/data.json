@@ -23,32 +23,32 @@
     {
       "name": "HTML",
       "level": "Intermedia", 
-      "src": "/public/img/skills/html.svg"
+      "src": "/public/img/html.svg"
     },
     {
       "name": "CSS",
       "level": "Intermidia", 
-      "src": "/public/img/skills/css.svg"
+      "src": "/public/img/css.svg"
     },
     {
       "name": "Javascript",
       "level": "Basic", 
-      "src": "/public/img/skills/javascript.svg"
+      "src": "/public/img/javascript.svg"
     },
     {
       "name": "Python",
       "level": "Basic", 
-      "src": "/public/img/skills/python.svg"
+      "src": "/public/img/python.svg"
     },
     {
       "name": "SQL",
       "level": "Basic", 
-      "src": "/public/img/skills/sql.png"
+      "src": "/public/img/sql.png"
     },
     {
       "name": "Power BI",
       "level": "Basic", 
-      "src": "/public/img/skills/power-bi.svg"
+      "src": "/public/img/power-bi.svg"
     }
     
   ]
