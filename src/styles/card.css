@@ -9,6 +9,11 @@
   box-shadow: .2rem .2rem .2rem #00000079 ;
   color: var(--text-color-200);
   font-size: 1.8rem;
+  transition: transform .4s ease-in-out;
+}
+
+.card-wrapper:hover {
+  transform: scale(1.04);
 }
 
 .card-wrapper img {

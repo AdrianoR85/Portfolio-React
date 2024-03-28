@@ -9,6 +9,17 @@
   font-family: var(--font-type-200);
 }
 
+.nav__desktop a {
+  border-bottom: .2rem solid transparent;
+}
+
+.nav__desktop a:hover {
+  border-bottom: .2rem solid var(--text-color-150);
+  border-radius: .4rem;
+  transition: all .5s ease-in-out;
+  color: var(--text-color-100);
+}
+
 @media (max-width: 432px) {
   .nav-wrapper {
     width: 100%;
