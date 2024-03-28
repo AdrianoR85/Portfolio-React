@@ -7,10 +7,6 @@
   min-height: 100vh;
 }
 
-.home__span {
-  display: none ;
-}
-
 .home__description h1 {
   font-family: var(--font-type-100);
   font-size: 6rem;
@@ -23,11 +19,30 @@
 .home__description p {
   text-align: center;
   font-size: 1.6rem;
-  margin: 1rem 0;
+  margin: 1rem 0 2rem 0;
 }
 
-.home__description p span {
+.home__description--links {
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.home__description--links a {
+  font-size: 2rem;
   color: var(--text-color-150);
+  text-decoration: none;
+  display: inline-block;
+}
+
+.home__description--links a:last-child  {
+  font-size: 1.2rem;
+  color: var(--text-color-150);
+  border: .2rem solid rgba(255, 255, 255);
+  border-radius: .8rem;
+  padding: .8rem;
 }
 
 .home__picture {
@@ -53,13 +68,7 @@
   .home__description {
     text-align: center;
   }
-  .home__span {
-    font-size: 4rem;
-    display: inline;
-    font-family: var(--font-type-300);
-    font-weight: 700;
-  }
-
+ 
   .home__description h1 {
     font-size: 8rem;
   }
