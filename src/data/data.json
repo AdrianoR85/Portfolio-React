@@ -17,6 +17,12 @@
       "img": "/img/memory_game.png",
       "link": "https://pokememory00.netlify.app/",
       "code": "https://github.com/AdrianoR85/memory_game"
+    },
+     {
+      "name": "Data lake",
+      "img": "https://github.com/AdrianoR85/Business-Intelligence-with-SQL-Server/blob/main/Images/Relatorio%20vendas.PNG",
+      "link": "https://github.com/AdrianoR85/Business-Intelligence-with-SQL-Server/tree/main",
+      "code": "https://github.com/AdrianoR85/Business-Intelligence-with-SQL-Server/tree/main"
     }
   ], 
   "skills": [
