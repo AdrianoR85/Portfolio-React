@@ -23,6 +23,12 @@
       "img": "/img/Reporting Serves.PNG",
       "link": "https://github.com/AdrianoR85/Business-Intelligence-with-SQL-Server/tree/main",
       "code": "https://github.com/AdrianoR85/Business-Intelligence-with-SQL-Server/tree/main"
+    },
+    {
+      "name": "Stock Manager",
+      "img": "/img/stock_manager.PNG",
+      "link": "https://github.com/AdrianoR85/stock-manager",
+      "code": "https://github.com/AdrianoR85/stock-manager"
     }
   ], 
   "skills": [
