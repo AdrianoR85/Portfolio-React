@@ -1,6 +1,5 @@
 .card-wrapper {
   width: 85%;
-  min-height: max-content;
   display: flex;
   flex-direction: column;
   border-radius: .8rem;
