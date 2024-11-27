@@ -26,9 +26,15 @@
     },
     {
       "name": "Stock Manager",
-      "img": "/img/stock_manager.PNG",
+      "img": "/img/stock_manager.png",
       "link": "https://github.com/AdrianoR85/stock-manager",
       "code": "https://github.com/AdrianoR85/stock-manager"
+    },
+    {
+      "name": "Stock Manager",
+      "img": "/img/logistics_dashboard.png",
+      "link": "https://logisticsdashboard-s9azdejg3ai43dp7eawyzz.streamlit.app/",
+      "code": "https://github.com/AdrianoR85/Logistics_Dashboard"
     }
   ], 
   "skills": [
