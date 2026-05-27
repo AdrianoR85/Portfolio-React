@@ -23,12 +23,6 @@ export function Contact() {
       label: "Email",
       value: portfolioData.personal.email,
       href: `mailto:${portfolioData.personal.email}`
-    },
-    {
-      icon: <Phone className="w-6 h-6" />,
-      label: "WhatsApp",
-      value: portfolioData.personal.phone,
-      href: portfolioData.personal.whatsapp
     }
   ]
 
