@@ -1,6 +1,6 @@
 export const personalInfo = {
   name: "Adriano Rosa",
-  role: "Desenvolvedor & Analista de Dados",
+  role: "Estudante",
   bio: "Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, desenvolvimento web e análise de dados. Em transição de carreira, trazendo experiência em logística e supply chain para o mundo tech.",
   email: "adriano_rosa06@live.com",
   phone: "(11) 95555-0000",
@@ -12,11 +12,11 @@ export const personalInfo = {
 }
 
 export const aboutInfo = {
-  description: "Sou estudante de Análise e Desenvolvimento de Sistemas na UNINTER, atualmente no 4º período. Possuo experiência profissional em logística e estou em transição de carreira para a área de tecnologia, combinando minha expertise em processos e análise com desenvolvimento de software.",
+  description: "Sou estudante de Análise e Desenvolvimento de Sistemas na FAM, atualmente no 5º período. Possuo experiência profissional em logística e estou em transição de carreira para a área de tecnologia, combinando minha expertise em processos e análise com desenvolvimento de software.",
   education: [
     {
       degree: "Tecnólogo em Análise e Desenvolvimento de Sistemas",
-      institution: "UNINTER",
+      institution: "FAM",
       period: "2023 - 2025",
       status: "Em andamento"
     }
