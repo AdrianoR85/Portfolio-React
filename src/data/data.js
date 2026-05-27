@@ -2,10 +2,8 @@ export const personalInfo = {
   name: "Adriano Rosa",
   role: "Estudante",
   bio: "Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, desenvolvimento web e análise de dados. Em transição de carreira, trazendo experiência em logística e supply chain para o mundo tech.",
-  email: "adriano_rosa06@live.com",
-  phone: "(11) 95555-0000",
-  location: "Poá, SP - Brasil",
-  github: "https://github.com/AdrianoBispo",
+  email: "adrianorosa085@gmail.com",
+  github: "https://github.com/AdrianoR85",
   linkedin: "https://www.linkedin.com/in/adriano-bispo-da-rosa/",
   avatar: "https://avatars.githubusercontent.com/u/103846311",
   cv: "/Curriculo.pdf"
