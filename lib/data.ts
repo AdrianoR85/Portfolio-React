@@ -7,7 +7,6 @@ export const portfolioData = {
     phone: "+55 47 996374501",
     github: "https://github.com/AdrianoR85",
     linkedin: "https://www.linkedin.com/in/adriano-rosa-741979182/",
-    whatsapp: "https://wa.me/47996374501",
     avatar: "https://github.com/AdrianoR85.png",
     cvUrl: "/Adrino_Rosa_CV.pdf"
   },
