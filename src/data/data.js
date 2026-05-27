@@ -4,8 +4,8 @@ export const personalInfo = {
   bio: "Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, desenvolvimento web e análise de dados. Em transição de carreira, trazendo experiência em logística e supply chain para o mundo tech.",
   email: "adrianorosa085@gmail.com",
   github: "https://github.com/AdrianoR85",
-  linkedin: "https://www.linkedin.com/in/adriano-bispo-da-rosa/",
-  avatar: "https://avatars.githubusercontent.com/u/103846311",
+  linkedin: "https://www.linkedin.com/in/adriano-rosa-741979182",
+  avatar: "https://avatars.githubusercontent.com/u/73034540?v=4",
   cv: "/Curriculo.pdf"
 }
 
