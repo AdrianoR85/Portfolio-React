@@ -35,8 +35,8 @@ export const projects = [
     image: "/img/kanban-desktop.png",
     tags: ["React", "JavaScript", "CSS"],
     category: "frontend",
-    github: "https://github.com/AdrianoBispo/kanban-app",
-    demo: "https://adrianobispo.github.io/kanban-app/"
+    github: "https://github.com/AdrianoR85/kanban-app",
+    demo: "https://adrianor85.github.io/kanban-app/"
   },
   {
     id: 2,
@@ -46,7 +46,7 @@ export const projects = [
     tags: ["JavaScript", "HTML", "CSS"],
     category: "frontend",
     github: "https://github.com/AdrianoBispo/memory-game",
-    demo: "https://adrianobispo.github.io/memory-game/"
+    demo: "https://adrianor85.github.io/memory-game/"
   },
   {
     id: 3,
@@ -55,7 +55,7 @@ export const projects = [
     image: "/img/relatorio_vendas.png",
     tags: ["Power BI", "DAX", "SQL"],
     category: "data",
-    github: "https://github.com/AdrianoBispo/relatorio-vendas"
+    github: "https://github.com/AdrianoR85/relatorio-vendas"
   },
   {
     id: 4,
@@ -64,7 +64,7 @@ export const projects = [
     image: "/img/stock_manager.png",
     tags: ["Python", "SQLite", "Tkinter"],
     category: "backend",
-    github: "https://github.com/AdrianoBispo/stock-manager"
+    github: "https://github.com/AdrianoR85/stock-manager"
   },
   {
     id: 5,
@@ -73,7 +73,7 @@ export const projects = [
     image: "/img/logistics_dashboard.png",
     tags: ["Power BI", "DAX", "SQL"],
     category: "data",
-    github: "https://github.com/AdrianoBispo/logistics-dashboard"
+    github: "https://github.com/AdrianoR85/logistics-dashboard"
   }
 ]
 
