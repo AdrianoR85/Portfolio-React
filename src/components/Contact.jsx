@@ -12,20 +12,6 @@ const contactLinks = [
     color: '#ea4335'
   },
   {
-    icon: Phone,
-    label: 'Telefone',
-    value: personalInfo.phone,
-    href: `tel:${personalInfo.phone.replace(/\D/g, '')}`,
-    color: '#34a853'
-  },
-  {
-    icon: MapPin,
-    label: 'Localização',
-    value: personalInfo.location,
-    href: null,
-    color: '#4285f4'
-  },
-  {
     icon: Github,
     label: 'GitHub',
     value: 'AdrianoBispo',
