@@ -5,7 +5,7 @@ export const personalInfo = {
   email: "adrianorosa085@gmail.com",
   github: "https://github.com/AdrianoR85",
   linkedin: "https://www.linkedin.com/in/adriano-rosa-741979182",
-  avatar: "https://avatars.githubusercontent.com/u/73034540?v=4",
+  avatar: "https://github.com/AdrianoR85.png",
   cv: "/Curriculo.pdf"
 }
 
