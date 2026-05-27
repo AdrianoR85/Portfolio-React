@@ -14,7 +14,7 @@ const contactLinks = [
   {
     icon: Github,
     label: 'GitHub',
-    value: 'AdrianoBispo',
+    value: 'AdrianoR85',
     href: personalInfo.github,
     color: '#ffffff'
   },
